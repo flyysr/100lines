@@ -1,4 +1,7 @@
 <?php
+/**
+* @todo  了解 PSR-4规范！！
+*/
 error_reporting(E_ALL); 
 ini_set("display_errors", 1); 
 
