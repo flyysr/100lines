@@ -1,6 +1,7 @@
 <?php
 /**
 * @todo  了解 PSR-4规范！！
+* @todo http://www.jb51.net/article/89548.htm
 */
 error_reporting(E_ALL); 
 ini_set("display_errors", 1); 
